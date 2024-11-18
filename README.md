@@ -34,7 +34,7 @@ Error Handling: Display appropriate messages for failed requests
 
  # Setup Instructions
 1. Clone the Repository
-git clone https://github.com/yourusername/task_userlist.git
+git clone https://github.com/Aditya6371/task_userlist.git
 2. Install Dependencies
 flutter pub get
 3. Run the App
