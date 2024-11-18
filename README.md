@@ -69,6 +69,7 @@ Shows a list of users with names and email addresses.
 Tapping a list item navigates to the detail screen of the selected user.
 A pull-to-refresh feature allows the user to refresh the list of users.
 A loading spinner appears while fetching data from the API.
+
 Detail Screen:
 
 Displays additional information about the user, including their username and address.
