@@ -18,14 +18,14 @@ API Used
 The app fetches user data from the public API:
 
 URL: https://jsonplaceholder.typicode.com/users
-The response contains the following user fields:
 
+The response contains the following user fields:
 name: The name of the user.
 email: The email address of the user.
 username: The username of the user.
 address: The user's address (used in the detail screen).
-Technologies Used
 
+Technologies Used
 Flutter: Latest stable version
 State Management: GetX for state management
 UI: Flutter’s Material Design
