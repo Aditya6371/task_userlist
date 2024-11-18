@@ -53,8 +53,8 @@ Detail Screen:
 Displays additional information about the user, including their username and address.
 
  # Screen shots
- 
-![photo_6188119980667683594_y](https://github.com/user-attachments/assets/c39286ec-ccc3-4a89-a74c-e70404cbebd8)
+
+![photo_6188119980667683594_y](https://github.com/user-attachments/assets/fab000ee-991e-448a-b4be-3b3ffff18f25)
 ![photo_6188119980667683593_y](https://github.com/user-attachments/assets/ddbdf019-5d19-49da-937a-3403216978c3)
 ![photo_6188119980667683595_y](https://github.com/user-attachments/assets/75c5ed39-006c-4887-a97b-1e2290b03eb7)
 
