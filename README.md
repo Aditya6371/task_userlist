@@ -8,13 +8,18 @@ This is a simple Flutter app that fetches user data from a public API (https://j
  # Features
 
 Loading Indicator: Displays a loading spinner while fetching data from the API.
-User List: Displays a list of users with their names and email addresses.
-Pull-to-Refresh: Refreshes the user list when pulled down.
-Error Handling: Shows error messages if the API request fails.
-Search Functionality: Filters the list of users based on the entered search query.
-Detail Screen: Displays additional details about a user when an item is tapped.
-API Used
 
+User List: Displays a list of users with their names and email addresses.
+
+Pull-to-Refresh: Refreshes the user list when pulled down.
+
+Error Handling: Shows error messages if the API request fails.
+
+Search Functionality: Filters the list of users based on the entered search query.
+
+Detail Screen: Displays additional details about a user when an item is tapped.
+
+API Used
 The app fetches user data from the public API:
 
 URL: https://jsonplaceholder.typicode.com/users
