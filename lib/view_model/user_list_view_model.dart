@@ -10,9 +10,7 @@ class UserListViewModel {
     try {
       final res = await _userListRepo.getUserList();
       if (res is List) {
-        return Future.value(
-          res.map((json) => UserModel.fromJson(json)).toList(),
-        );
+        return res.map((json) => UserModel.fromJson(json)).toList();
       } else {
         throw Exception("Unexpected response format: ${res.runtimeType}");
       }
